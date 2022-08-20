@@ -1,9 +1,13 @@
-photo 사진
+# Mythplogy
 
-2022.07.15일 첫 작성
+git clone https://github.com/kimdaehee5609/Mythplogy.git
+
+2022.08.10.수
+
+신화
 
 
-
+git pull 
 
 
 
